@@ -2,10 +2,10 @@
 <widget id="io.cordova.hellocordova" version="0.0.1" 
         xmlns="http://www.w3.org/ns/widgets" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Hola Mundo 2 Personalizado</name>
+  <name>Ejercicio 3</name>
   <description>
       A sample Apache Cordova application that responds to the deviceready event.
-      Example 2.
+      Example 3.
   </description>
   <author email="dev@cordova.apache.org" href="http://cordova.io">
       Verónica Aguirre Frías y Mariana Judith Guerrero Moreno
