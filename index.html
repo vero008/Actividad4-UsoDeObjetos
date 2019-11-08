@@ -11,9 +11,7 @@
     
         <script type="text/javascript" charset="utf-8">
             
-      function onBodyLoad() {        
-          document.addEventListener("deviceready",onDeviceReady,        false);      
-      }
+      
       function onDeviceReady() {        
           navigator.notification.alert("PhoneGap is ready!");      }    
         </script>
@@ -26,7 +24,7 @@
         <h2>Verónica Aguirre Frías & Mariana Judith Guerrero Moreno</h2>
         <p>This is a sample PhoneGap application</p> 
         
-        <p><input type="button" value="Alert" onclick="onBodyLoad()"></p>
+         <p><input type="button" value="Alert" href='javascript:;' onclick="onDeviceReady()"></p>
         
         
     </body> 
